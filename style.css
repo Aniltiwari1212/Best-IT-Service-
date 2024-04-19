@@ -418,7 +418,7 @@ section.our-srvc {
    margin: 0 auto;
 }
 .our-projects{
-    background: url(../img/project-bg.jpg);
+    background: url(project-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 250px 0 100px 0;
@@ -545,7 +545,7 @@ h4.prohovhead {
     background-color: #efefef;
 }
 .consultation{
-    background-image: url(../img/consultation-img.jpg);
+    background-image: url(consultation-img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
