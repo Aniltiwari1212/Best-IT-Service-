@@ -1,0 +1,93 @@
+@media(max-width:1199.98px){
+    .menu-bar .navbar-nav {
+        margin-right: 0px;
+    }
+    .menu-bar .navbar-nav .nav-item {
+        font-size: 14px;
+    }
+    .menu-bar {
+        position: absolute;
+        top: 45px;
+        left: 25px;
+    }
+    .menu-bar .navbar {
+        padding: 10px;
+    }
+    .slider-btn a {
+        font-size: 18px;
+    }
+    .slider-cont h1{
+        font-size: 50px;
+        margin: 5px;
+    }
+    .slider-cont p{
+        margin-bottom: 20px;
+    }
+    .carousel-caption {
+        position: absolute;
+        top: 26%;
+        left: 10%;
+    }
+    .softwareRight-cont h2 {
+        font-size: 40px;
+    }
+    .softwareiconbox .col-md-6 {
+        padding: 10px;
+    }
+    .softwareiconbox h6{
+        font-size: 18px;
+    }
+    .softImg-bottomleft {
+        position: absolute;
+        top: 220px;
+        left: -40px;
+        width: 250px;
+    }
+    .softImg-bottomright {
+        position: absolute;
+        top: 310px;
+        left: 230px;
+        width: 180px;
+  
+    }
+    .img-shape1{
+    position: absolute;
+    top: 150px;
+    left: -80px;
+    }
+    .img-shape2 {
+    position: absolute;
+    bottom: -210px;
+    right: 120px;
+    }
+    section.our-srvc {
+        padding: 0;
+    }
+    .our-projects {
+        padding: 150px 0 10px 0;
+    }
+    .projectsolution {
+        padding-left: 50px;
+    }
+    .our-projects .title-sec {
+        padding-left: 50px;
+    }
+    .latest-projects {
+       padding: 60px 0;
+    }
+    .useful-links li a {
+        font-size: 12px;
+    }
+    .ftr-cont {
+        font-size: 16px;
+        color: #74787C;
+    }
+    .keep{
+        font-size: 20px;
+    }
+}
+@media(max-width:991.98px){
+    .menu-bar .navbar {
+        padding: 10px 250px;
+    }
+}
